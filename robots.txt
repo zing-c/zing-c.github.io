@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zing-c.github.io/sitemap.xml
